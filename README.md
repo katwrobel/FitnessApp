@@ -23,5 +23,10 @@ We have developed a system that allows a coach to monitor the sports achievement
 ## Project Purpose
 The project was developed as part of the Object-Oriented Programming course at university
 
+## Autors
+- Katarzyna Wróbel
+- Anna Golak
+- Mikołaj Ziółkowski
+
 **The project was developed in C#.**
 
