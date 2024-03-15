@@ -19,3 +19,9 @@ We have developed a system that allows a coach to monitor the sports achievement
   - After completing an exercise, the trainee receives points. In the case of strength training, the number of points depends on the weight load, sets, and repetitions. For cardio training, points are calculated based on distance, time, and calories burned.
 
 **The application allows logging into an account.**
+
+## Project Purpose
+The project was developed as part of the Object-Oriented Programming course at university
+
+**The project was developed in C#.**
+
